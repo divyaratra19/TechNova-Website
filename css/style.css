@@ -9152,14 +9152,14 @@ textarea.form-control {
   margin-bottom: 5px;
   text-transform: uppercase;
   color: rgba(0, 0, 0, 0.3);
-  color: #fe9191;
+  color: #1abd9d;
   letter-spacing: 2px; }
 
 .heading-section h2 {
   font-size: 40px;
   font-weight: 600; }
   .heading-section h2 span.number {
-    color: #fe9191; }
+    color: #1abd9d; }
   @media (max-width: 767.98px) {
     .heading-section h2 {
       font-size: 28px; } }
