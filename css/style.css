@@ -8774,7 +8774,7 @@ h1, h2, h3, h4, h5,
     font-weight: 500; }
 
 .ftco-schedule {
-  background: #ffdddd; }
+  background: #ddfffa; }
 
 .ftco-schedule {
   position: relative;
@@ -8813,13 +8813,13 @@ h1, h2, h3, h4, h5,
         content: '';
         border-style: solid;
         border-width: 10px 0 10px 10px;
-        border-color: transparent transparent transparent #fe7878;
+        border-color: transparent transparent transparent #000000;
         opacity: 0; }
       .ftco-schedule .nav-pills .nav-link span {
         display: block;
         font-size: 14px; }
       .ftco-schedule .nav-pills .nav-link:hover {
-        background: #fe7878;
+        background: #000000;
         color: #fff; }
       .ftco-schedule .nav-pills .nav-link.active {
         color: #fff;
@@ -8829,7 +8829,7 @@ h1, h2, h3, h4, h5,
         -ms-transition: all 0.3s ease;
         transition: all 0.3s ease;
         border: 1px solid transparent;
-        background: #fe7878; }
+        background: #000000; }
         .ftco-schedule .nav-pills .nav-link.active:after {
           opacity: 1; }
         @media (max-width: 767.98px) {
